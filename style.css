@@ -1,0 +1,15 @@
+body{
+    background-color: blue;
+    background-size:center;
+}
+canvas{
+    border: radius 40px;
+  box-shadow  :  5px 5px 20px green;
+}
+h1,h2{
+    background-color: forestgreen;
+    border-radius: 20px;
+    width:fit-content;
+    margin: 20px auto;
+    padding: 20px 20px;
+}
